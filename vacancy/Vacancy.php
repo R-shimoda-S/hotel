@@ -3,9 +3,6 @@
  * 空室状況表示関連のクラス
  */
 
-require_once('C:\xampp\htdocs\hotel\class\db\Base.php');
-require_once('C:\xampp\htdocs\hotel\class\db\CalendarVacancy.php');
-
 class Vacancy
 {
     public function __construct()
